@@ -1,0 +1,132 @@
+@media (max-width: 600px) {
+  body {
+  }
+} 
+nav{
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    margin-left: 40%;
+    color: black;  
+}
+nav ul{
+    list-style-type: none;
+    text-align: center;
+    padding: 0, 10px;
+}
+nav ul,li, a{
+       text-transform: capitalize;
+       display: flex; 
+       padding: 10px;   
+}
+#images1{
+  width: 700px;
+  height: 400px;
+}
+.content1{
+    background-color: gold;
+    margin-top: -4.5%;
+    padding:5px 10px;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: space-between;    
+}
+
+#flex{
+  margin-left: 20%;
+}
+.box{
+  width: 300px;
+  height: 50px;
+  background-color: white;
+  border-radius: 30px; 
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box; 
+  margin-left: 30%;
+
+} 
+.box > i{
+  font-size: 20px;
+} 
+ .box > input{
+  flex: 1;
+  height: 40px;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  padding-left: 10px;
+
+}
+.contents{
+  display: flex;
+  justify-content: space-between;
+}
+.Nka{
+  padding-left: 120%;
+  /* justify-content: space-between; */
+  margin-top: -60%;
+
+}
+#images2{
+  width: 180px;
+  height: 150px;
+}
+.ringo{
+  display: flex;
+  justify-content: space-between;
+}
+.bingo{
+  display: flex;
+  justify-content: space-between;
+}
+#pandas{
+  margin-left: 45%;
+}
+#panda{
+  margin-left: 50%;
+}
+#turn{
+  margin-left: 40%;
+}
+.run{
+  display: flex;
+  justify-content: space-between;
+}
+.moraa{
+  background-color: gold;
+  display: flex;
+  justify-content: space-between;
+}
+#turns{
+  margin-left: 45%;
+}
+.bang{
+  margin-left: 35%;
+
+}
+.makena{
+  display: flex;
+  justify-content: space-between;
+  background-color: purple;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
